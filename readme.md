@@ -62,7 +62,9 @@ Gunakan akun berikut untuk login:
 * **Admin:**
     * Email: `admin@gmail.com`
     * Password: `adminpw123@gmail.com`
-* **User: Gunakan akun email yang terverifikasi gmail untuk mencoba fitur Gmail SMTP**
+* **User:**
+* **Gunakan akun email yang terverifikasi gmail untuk mencoba fitur Gmail SMTP**
+* Atau gunakan akun dummy ini
     * Email: `user@gmail.com`
     * Password: `userpw123`
 ---
